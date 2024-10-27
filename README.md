@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Phúc</h1>
-<h3 align="center">A passionate frontend developer from Vietnam</h3>
+<h3 align="center">An enthusiastic and detail-oriented frontend developer from Vietnam, dedicated to crafting seamless and engaging user experiences.</h3>
+
 
 <div align="center">
     <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExem5oc2VvcWFkbzA4OTBqeGgxZ2d2eTN6M2JucjNpc2QxbXZ6YTlydyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13GIgrGdslD9oQ/giphy.webp" alt="Coding GIF" width="600" height="auto" style="border-radius: 15px;"/>
@@ -17,9 +18,10 @@
 
 ---
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-  <!-- Add any social links you want to display here -->
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+    <a href="https://www.facebook.com/profile.php?id=100006558781735" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="Facebook Profile" height="30" width="40" /></a>
+    <a href="https://www.linkedin.com/in/ph%C3%BAc-nguy%E1%BB%85n-284530217/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn Profile" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
