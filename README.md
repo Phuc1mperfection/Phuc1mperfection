@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Phúc</h1>
 <h3 align="center">A passionate frontend developer from Vietnam</h3>
-        <img align="center" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExem5oc2VvcWFkbzA4OTBqeGgxZ2d2eTN6M2JucjNpc2QxbXZ6YTlydyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13GIgrGdslD9oQ/giphy.webp" alt="" >
-
+<div align="center">
+    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExem5oc2VvcWFkbzA4OTBqeGgxZ2d2eTN6M2JucjNpc2QxbXZ6YTlydyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13GIgrGdslD9oQ/giphy.webp" alt="Coding GIF" width="500" height="auto">
+</div>
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=phuc1mperfection" alt="phuc1mperfection" /></a> </p>
