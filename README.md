@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Phúc</h1>
 <h3 align="center">A passionate frontend developer from Vietnam</h3>
-        <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExem5oc2VvcWFkbzA4OTBqeGgxZ2d2eTN6M2JucjNpc2QxbXZ6YTlydyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13GIgrGdslD9oQ/giphy.webp" alt="" >
+        <img align="center" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExem5oc2VvcWFkbzA4OTBqeGgxZ2d2eTN6M2JucjNpc2QxbXZ6YTlydyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13GIgrGdslD9oQ/giphy.webp" alt="" >
 
 
 
