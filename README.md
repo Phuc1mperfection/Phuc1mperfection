@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Phúc</h1>
 <h3 align="center">A passionate frontend developer from Vietnam</h3>
+<img src="https://giphy.com/gifs/reaction-typing-unpopular-opinion-13GIgrGdslD9oQ" alt="" width="400">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=phuc1mperfection&label=Profile%20views&color=0e75b6&style=flat" alt="phuc1mperfection" /> </p>
 
